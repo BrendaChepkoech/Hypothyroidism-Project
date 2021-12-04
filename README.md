@@ -26,25 +26,42 @@ Hint: You may want to use decision trees to give you the most preferable feature
 
 Dataset Files 
 
-Source [Link] (Links to an external site.)
+Source http://bit.ly/hypothyroid_data 
 
 # Dataset Columns
 
 Age
+
 Sex
+
 on_thyroxine
+
 query_on_thyroxine
+
 on_antithyroid_medicationthyroid_surgery
+
 query_hypothyroid
+
 query_hyperthyroid
+
 pregnant
+
 sick
+
 tumor
+
 lithium
+
 goitre
+
 TSH_measured
+
 TSH
+
 T3_measured
+
 T3
+
 TT4_measured
+
 TT4
